@@ -1,0 +1,131 @@
+body{
+
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(67, 57, 254) 0%, rgb(34, 34, 204) 35%, rgba(0,212,255,1) 100%);
+    color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.index-header{
+   
+    width:500px ;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    background-color: rgb(1, 119, 255);
+    margin:auto;
+    text-align: center;
+    height: 70px;
+    color: rgb(255, 255, 255);
+    overflow: visible;
+    overflow-wrap: break-word;
+    box-shadow: 10px 5px 5px rgb(98, 187, 250);
+
+
+}
+
+
+
+.show-header{
+   
+    width:500px ;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    background-color: rgb(1, 119, 255);
+    margin:auto;
+    text-align: center;
+    height: 150px;
+    color: rgb(255, 255, 255);
+    overflow: visible;
+    overflow-wrap: break-word;
+    box-shadow: 10px 5px 5px rgb(98, 187, 250);
+
+}
+
+
+.index-form{
+    width:500px ;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    background-color: rgb(255, 255, 255);
+    margin:auto;
+    text-align: center;
+    height: 500px;
+    color: rgb(255, 255, 255);
+    overflow: hidden;
+    overflow: visible;
+    overflow-wrap: break-word;
+    box-shadow: 10px 5px 5px rgb(98, 187, 250);
+
+
+}
+
+
+.show-form{
+
+    width:500px ;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    background-color: rgb(255, 255, 255);
+    margin:auto;
+    text-align: center;
+    height: 300px;
+    color: rgb(255, 255, 255);
+    overflow: visible;
+    overflow-wrap: break-word;
+    box-shadow: 10px 5px 5px rgb(98, 187, 250);
+    
+    
+
+
+}
+
+
+.new-page-control{
+
+    width:500px ;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    background-color: rgb(255, 255, 255);
+    margin:auto;
+    text-align: center;
+    height: 500px;
+    color: rgb(255, 255, 255);
+    overflow: visible;
+    overflow-wrap: break-word;
+    box-shadow: 10px 5px 5px rgb(98, 187, 250);
+
+}
+
+.show-page-delete-button{
+background-color: rgb(198, 9, 9);
+font-weight: bolder;
+margin: 5px;
+
+}
+.show-page-delete-button:hover{
+    background-color: rgb(236, 6, 6);
+    font-weight: bolder;
+    margin: 5px;
+    
+    }
+
+.show-page-post-button{
+   margin: 10px;
+
+
+}
+
+.show-page-home-button{
+    margin: 10px;
+ 
+ 
+ }
+
+ .show-page-edit-button{
+    margin: 10px;
+ 
+ 
+ }
